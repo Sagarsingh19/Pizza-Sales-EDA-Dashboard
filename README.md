@@ -38,6 +38,29 @@ This project demonstrates practical **Business Intelligence & EDA** skills for r
 It highlights how **data-driven dashboards** drive better strategy & performance.
 
 ---
+📜 **SQL Queries**
+All analysis is done using pizza_queries.sql:
+Contains KPIs, trends, and breakdowns.
+Can be run in SSMS, Azure Data Studio, or any SQL tool.
+Works on pizza_sales dataset table.
+
+---
+📊 **Power BI Dashboard**
+The Power BI (.pbix) file is in the PowerBI folder.
+Fully interactive dashboard with filters, visuals, and insights.
+Ready for presentation to stakeholders.
+
+---
+🗂️ **Folder Structure**
+Pizza-Sales-EDA-Dashboard/
+│
+├── Dataset/           # Raw dataset files (CSV, Excel)
+├── Images/            # Screenshots & visuals for README
+├── PowerBI/           # Power BI .pbix dashboard file
+├── pizza_queries.sql  # All SQL queries used in analysis
+└── README.md          # Project documentation
+
+---
 
 🎥 **Demo Walkthrough**
 
@@ -45,10 +68,9 @@ It highlights how **data-driven dashboards** drive better strategy & performance
 
 ---
 
-🗂️ **Folder Structure**
 
 📬 **Connect with Me**
 
-- **LinkedIn:** (https://www.linkedin.com/in/singhhsagar/)
-- **Email:** (7sagarsingh@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/singhhsagar/
+- **Email:** 7sagarsingh@gmail.com
 
