@@ -53,12 +53,12 @@ It highlights how **data-driven dashboards** drive better strategy & performance
 ---
 🗂️ **Folder Structure**
 Pizza-Sales-EDA-Dashboard/
-│
-├── Dataset/           # Raw dataset files (CSV, Excel)
-├── Images/            # Screenshots & visuals for README
-├── PowerBI/           # Power BI .pbix dashboard file
-├── pizza_queries.sql  # All SQL queries used in analysis
-└── README.md          # Project documentation
+
++├── Dataset/           # Raw dataset files (CSV, Excel)
++├── Images/            # Screenshots & visuals for README
++├── PowerBI/           # Power BI .pbix dashboard file
++├── pizza_queries.sql  # All SQL queries used in analysis
++└── README.md          # Project documentation
 
 ---
 
